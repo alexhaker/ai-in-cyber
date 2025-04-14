@@ -1,0 +1,11 @@
+Name,AddressOfEntryPoint,MajorLinkerVersion,MajorImageVersion,MajorOperatingSystemVersion,DllCharacteristics,SizeOfStackReserve,NumberOfSections,ResourceSize,legitimate
+./samples/plink.exe,901376,2,1,4,0,2097152,3,18724,1
+./samples/putty.exe,779524,14,0,6,33120,1048576,10,380432,1
+./samples/HWMonitor_x64_1.31_Rus.exe,689084,2,0,6,33088,1048576,11,293820,1
+./samples/Adobe.exe,1102656,2,0,4,0,1048576,3,440,0
+./samples/Win32.AgentTesla.exe,443086,11,0,4,34112,1048576,3,24192,0
+./samples/wtp_admin.exe,126304,14,0,5,49472,1048576,6,71183,1
+./samples/samples1.exe,30018,6,0,4,0,1048576,4,5304,1
+./samples/calibre-portable-installer-8.2.100.exe,50284,14,0,6,33120,1048576,7,193718832,1
+./samples/OperaGXSetup.exe,136128,14,0,6,33088,1048576,5,12372,1
+./samples/samples2.exe,30018,6,0,4,0,1048576,4,5304,1
